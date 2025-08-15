@@ -59,7 +59,7 @@ The general workflow for each phase follows these steps:
   <img src="Images/LTE_1800_Power_Calculation.jpg" alt="LTE 1800 Power Calculation" width="1000">
 </p>
 <p align="center">
-  <img src="Images/Coverage_Area.jpg" alt="Coverage Area" width="500">
+  <img src="Images/Coverage_Area.jpg" alt="Coverage Area" width="600">
 </p>
 
 ### <h3 id="optical-fiber">Phase 2: Optical Fiber Transmission</h3>
