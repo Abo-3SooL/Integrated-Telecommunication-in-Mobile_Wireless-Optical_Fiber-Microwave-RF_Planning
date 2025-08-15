@@ -238,7 +238,7 @@ This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum
 
 ##### <ins><i>Components</i></ins>
 <p align="center">
-  <img src="Images/IDU.jpg" alt="RTN 950A" width="700">
+  <img src="Images/IDU.jpg" alt="RTN 950A" width="1000">
 </p>
 <p align="center">
   <img src="Images/CSHOF.jpg" alt="CSHOF" width="1000">
@@ -250,10 +250,12 @@ This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum
   <img src="Images/ODU.jpg" alt="XMC-3" width="1000">
 </p>
 <p align="center">
-  <img src="Images/Microwave_Antenna.jpg" alt="Microwave Antenna" width="1000">
+  <img src="Images/Microwave_Antenna.jpg" alt="Microwave Antenna" width="500">
 </p>
 <p align="center">
   <img src="Images/Coupler.jpg" alt="Coupler" width="500">
+</p>
+<p align="center">
   <img src="Images/IF_Cable.jpg" alt="IF Cable" width="500">
 </p>
 
@@ -264,7 +266,7 @@ This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum
 
 ##### <ins><i>Deliverables</i></ins>
 <p align="center">
-  <img src="Images/Microwave_BOQ.jpg" alt="Microwave BOQ" width="650">
+  <img src="Images/Microwave_BOQ.jpg" alt="Microwave BOQ" width="600">
 </p>
 <p align="justify">Design is ready to be handed over. </p>
 
