@@ -50,13 +50,13 @@ The general workflow for each phase follows these steps:
 
 ##### <ins><i>Results</i></ins>
 <p align="center">
-  <img src="Images/GSM_900_Power_Calculation.jpg" alt="GSM 900 Power Calculation" width="500">
+  <img src="Images/GSM_900_Power_Calculation.jpg" alt="GSM 900 Power Calculation" width="1000">
 </p>
 <p align="center">
-  <img src="Images/UMTS_2100_Power_Calculation.jpg" alt="UMTS 2100 Power Calculation" width="500">
+  <img src="Images/UMTS_2100_Power_Calculation.jpg" alt="UMTS 2100 Power Calculation" width="1000">
 </p>
 <p align="center">
-  <img src="Images/LTE_1800_Power_Calculation.jpg" alt="LTE 1800 Power Calculation" width="500">
+  <img src="Images/LTE_1800_Power_Calculation.jpg" alt="LTE 1800 Power Calculation" width="1000">
 </p>
 <p align="center">
   <img src="Images/Coverage_Area.jpg" alt="Coverage Area" width="500">
