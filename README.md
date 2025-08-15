@@ -83,6 +83,7 @@ To prepare for the mobile network design, I studied relevant <b>Huawei documenta
   <li><b>Propagation Considerations</b> – Path loss models applicable to urban, suburban, and rural environments.</li>
   <li><b>KPI-Driven Design</b> – Coverage, capacity, throughput, and mobility performance as per project requirements.</li>
 </ul>
+This technical background ensured the mobile wireless design met the <b>coverage and performance KPIs</b> while optimizing component selection and configuration.
 
 ##### <ins><i>Components</i></ins>
 <p align="center">
@@ -128,5 +129,80 @@ To prepare for the mobile network design, I studied relevant <b>Huawei documenta
 <p align="justify">Design is ready to be handed over. </p>
 
 ### <h3 id="optical-fiber">Phase 2: Optical Fiber Transmission</h3>
+<p align="justify">In this phase, we designed a <b>DWDM OTN (Dense Wavelength Division Multiplexing – Optical Transport Network)</b> to interconnect two countries, ensuring high-capacity and long-distance transmission. The solution was implemented using <b>Huawei OSN 9800</b> equipment, selected for its scalability and performance. In addition to meeting current capacity requirements, the design also incorporated a <b>future growth</b> plan to enable seamless capacity upgrades if traffic demand increases, ensuring long-term network reliability and flexibility. </p>
+
+### <ins>Project Design</ins>
+##### <ins><i>Requirements</i></ins>
+<p align="center">
+  <img src="Images/Optical_Fiber_Requirements.jpg" alt="Optical Fiber Requirements" width="700">
+</p>
+
+##### <ins><i>Technical Aspects</i></ins>
+To prepare for the optical fiber network design, I studied <b>Huawei documentation</b> related to the <b>OSN 9800</b> platform and key optical transmission principles, including:
+<ul>
+  <li><b>Huawei OSN 9800 Documentation</b> – Equipment specifications, configuration guidelines, and scalability features for DWDM/OTN deployments.</li>
+  <li><b>Optical Transport Network (OTN)</b> – Concepts, architecture, and standard framing structure.</li>
+  <li><b>MS-OTN (Multi-Service OTN)</b> – Integration of multiple service types (Ethernet, SDH, etc.) over a single optical infrastructure.</li>
+  <li><b>Liquid OTN</b> – Flexible OTN architecture for dynamic service provisioning and network optimization.</li>
+  <li><b>Optical Fiber Bands</b> – Characteristics and applications of <b>C-band</b>, <b>S-band</b>, and <b>L-band</b> in DWDM systems.</li>
+  <li><b>ROADM (Reconfigurable Optical Add-Drop Multiplexer)</b> – Operating principles, fixed-grid vs. flex-grid, and colorless/directionless/contentionless (CDC) configurations.</li>
+  <li><b>Fiber Optic Network Protection Schemes</b> – 
+    <ul>
+  <li>Line-side protection (1+1, 1:1)</li>
+  <li>Client-side protection</li>
+  <li>Intra-board protection</li>
+    </ul>
+  </li>
+  <li><b>Fiber Loss Calculation</b> – Attenuation, splice loss, connector loss, and system margin calculations.</li>
+  <li><b>Dispersion Management</b> – Chromatic and polarization mode dispersion control in long-haul transmission.</li>
+  <li><b>Amplification Techniques</b> – Use of EDFAs (Erbium-Doped Fiber Amplifiers) and Raman amplification in DWDM.</li>
+  <li><b>KPI Considerations for Optical Networks</b> – Latency, BER (Bit Error Rate), and availability targets.</li>
+</ul>
+This technical preparation ensured the DWDM OTN design was <b>high-capacity, resilient, and future-proof</b>, meeting current requirements and allowing for seamless upgrades.
+
+##### <ins><i>Components</i></ins>
+<p align="center">
+  <img src="Images/OSN.jpg" alt="OSN 9800" width="900">
+</p>
+<p align="center">
+  <img src="Images/M520SM+DCP.jpg" alt="M520SM & DCP" width="900">
+</p>
+<p align="center">
+  <img src="Images/TMD20+WSMD9.jpg" alt="TMD20 & WSMD9" width="600">
+</p>
+<p align="center">
+  <img src="Images/DAP+DAPXF.jpg" alt="DAP & DAPXF" width="600">
+</p>
+<p align="center">
+  <img src="Images/AST+OPM.jpg" alt="AST & OPM" width="600">
+</p>
+<p align="center">
+  <img src="Images/Others1.jpg" alt="Auxiliary Board" width="1000">
+</p>
+<p align="center">
+  <img src="Images/PIU.jpg" alt="PIU" width="1000">
+</p>
+<p align="center">
+  <img src="Images/Fiber_Optical_Module.jpg" alt="Fiber Optical Module" width="1000">
+</p>
+<p align="center">
+  <img src="Images/Fiber_Cable.jpg" alt="Fiber Cable" width="1000">
+</p>
+
+##### <ins><i>Implementation & Connection</i></ins>
+<p align="center">
+  <img src="Images/HLD_Optical.jpg" alt="High Level Design Optical" width="1000">
+</p>
+<p align="center">
+  <img src="Images/HLD_Electrical.jpg" alt="High Level Design Electrical" width="1000">
+</p>
+
+##### <ins><i>Deliverables</i></ins>
+<p align="center">
+  <img src="Images/Optical_Fiber_BOQ.jpg" alt="Optical Fiber BOQ" width="650">
+</p>
+<p align="justify">Design is ready to be handed over. </p>
+
+
 ### <h3 id="microwave">Phase 3: Microwave Transmission</h3>
 ### <h3 id="atoll-forsk">Phase 4: Atoll Forsk Simulation</h3>
