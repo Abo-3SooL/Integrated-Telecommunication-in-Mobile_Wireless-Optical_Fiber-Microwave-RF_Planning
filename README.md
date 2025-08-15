@@ -41,7 +41,7 @@ The general workflow for each phase follows these steps:
 ### <h3 id="mobile-wireless">Phase 1: Mobile Wireless Communication</h3>
 <p align="justify">In this phase, we focused on designing mobile networks for <b>2G (GSM)</b>, <b>3G (UMTS)</b>, <b>4G (LTE)</b>, and <b>5G (NR)</b> technologies using the <b>Huawei BBU 5900</b> as the central baseband unit. We began by performing <b>power calculations</b> for GSM, UMTS, and LTE to determine the expected coverage areas based on link budget analysis. After validating the design parameters, we proceeded with the network layout and concluded the phase with a site survey to assess real-world deployment feasibility. </p>
 
-#### <ins>Power Calculations</ins>
+### <ins>Power Calculations</ins>
 
 ##### <ins><i>Requirements</i></ins>
 <p align="center">
@@ -64,26 +64,35 @@ The general workflow for each phase follows these steps:
   <img src="Images/Coverage_Area.jpg" alt="Coverage Area" width="600">
 </p>
 
-#### <ins>Network Design</ins>
+### <ins>Project Design</ins>
 ##### <ins><i>Requirements</i></ins>
 <p align="center">
-  <img src="Images/Mobile_Wireless_Requirements.jpg" alt="Mobile Wireless Requirements" width="600">
+  <img src="Images/Mobile_Wireless_Requirements.jpg" alt="Mobile Wireless Requirements" width="700">
 </p>
 
 ##### <ins><i>Technical Aspects</i></ins>
+To prepare for the mobile network design, I studied relevant <b>Huawei documentation</b> and key mobile communication concepts, focusing on:
+<ul>
+  <li><b>Huawei BBU 5900 Documentation</b> – Specifications, configuration, and integration for multi-technology deployments.</li>
+  <li><b>MIMO (Multiple Input Multiple Output)</b> – Principles, configurations, and benefits in LTE and 5G.</li>
+  <li><b>Spatial Diversity</b> – Techniques to improve signal robustness and minimize fading.</li>
+  <li><b>Mobile Technologies Overview</b> – GSM, UMTS, LTE, and NR (5G) standards, supported bands, and spectrum allocation.</li>
+  <li><b>Multiple Access Techniques</b> – FDMA (GSM), WCDMA (UMTS), OFDMA (LTE/5G), SC-FDMA (LTE uplink).</li>
+  <li><b>Link Budget Analysis</b> – Power calculations for GSM, UMTS, and LTE to estimate coverage areas.</li>
+  <li><b>Antenna Types & Configurations</b> – Sectorized antennas, omnidirectional antennas, and beamforming in LTE/5G.</li>
+  <li><b>Propagation Considerations</b> – Path loss models applicable to urban, suburban, and rural environments.</li>
+  <li><b>KPI-Driven Design</b> – Coverage, capacity, throughput, and mobility performance as per project requirements.</li>
+</ul>
 
 ##### <ins><i>Components</i></ins>
 <p align="center">
-  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="600">
+  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="900">
 </p>
 <p align="center">
-  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="600">
+  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="900">
 </p>
 <p align="center">
   <img src="Images/RF_Jumper.jpg" alt="RF Jumper" width="600">
-</p>
-<p align="center">
-  <img src="Images/RF_Module.jpg" alt="RF Module" width="600">
 </p>
 <p align="center">
   <img src="Images/Wireless_Optical_Module.jpg" alt="Wireless Optical Module" width="600">
@@ -92,26 +101,29 @@ The general workflow for each phase follows these steps:
   <img src="Images/CPRI_Cable.jpg" alt="CPRI Cable" width="600">
 </p>
 <p align="center">
-  <img src="Images/BBU.jpg" alt="BBU 5900" width="600">
+  <img src="Images/RF_Module.jpg" alt="RF Module" width="1000">
 </p>
 <p align="center">
-  <img src="Images/MPT_Boards.jpg" alt="MPT Boards" width="600">
+  <img src="Images/BBU.jpg" alt="BBU 5900" width="1000">
 </p>
 <p align="center">
-  <img src="Images/BBP_Boards.jpg" alt="BBP Boards" width="600">
+  <img src="Images/MPT_Boards.jpg" alt="MPT Boards" width="1000">
+</p>
+<p align="center">
+  <img src="Images/BBP_Boards.jpg" alt="BBP Boards" width="1000">
 </p>
 
 ##### <ins><i>Implementation & Connection</i></ins>
 <p align="center">
-  <img src="Images/Mobile_Wireless_Design.jpg" alt="Mobile Wireless Design" width="600">
+  <img src="Images/Mobile_Wireless_Design.jpg" alt="Mobile Wireless Design" width="1000">
 </p>
 <p align="center">
-  <img src="Images/BBU_Boards_Configuration.jpg" alt="BBU Boards Configuration" width="600">
+  <img src="Images/BBU_Boards_Configuration.jpg" alt="BBU Boards Configuration" width="1000">
 </p>
 
 ##### <ins><i>Deliverables</i></ins>
 <p align="center">
-  <img src="Images/Mobile_Wireless_BOQs.jpg" alt="Mobile Wireless BOQ" width="600">
+  <img src="Images/Mobile_Wireless_BOQ.jpg" alt="Mobile Wireless BOQ" width="650">
 </p>
 <p align="justify">Design is ready to be handed over. </p>
 
