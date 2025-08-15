@@ -128,6 +128,7 @@ This technical background ensured the mobile wireless design met the <b>coverage
 </p>
 <p align="justify">Design is ready to be handed over. </p>
 
+
 ### <h3 id="optical-fiber">Phase 2: Optical Fiber Transmission</h3>
 <p align="justify">In this phase, we designed a <b>DWDM OTN (Dense Wavelength Division Multiplexing – Optical Transport Network)</b> to interconnect two countries, ensuring high-capacity and long-distance transmission. The solution was implemented using <b>Huawei OSN 9800</b> equipment, selected for its scalability and performance. In addition to meeting current capacity requirements, the design also incorporated a <b>future growth</b> plan to enable seamless capacity upgrades if traffic demand increases, ensuring long-term network reliability and flexibility. </p>
 
@@ -205,4 +206,67 @@ This technical preparation ensured the DWDM OTN design was <b>high-capacity, res
 
 
 ### <h3 id="microwave">Phase 3: Microwave Transmission</h3>
+<p align="justify">In this phase, we designed a <b>point-to-point (PTP) microwave link</b> using the <b>Huawei RTN 950A</b>, targeting high-capacity backhaul connectivity with robust reliability. The design incorporated a <b>1+1 Hot Standby (HSB)</b> configuration for redundancy and <b>XPIC (Cross-Polarization Interference Cancellation)</b> technology to double capacity without additional spectrum usage. This approach ensured both high performance and network resilience under various operating conditions. </p>
+
+### <ins>Project Design</ins>
+##### <ins><i>Requirements</i></ins>
+<p align="center">
+  <img src="Images/Microwave_Requirements.jpg" alt="Microwave Requirements" width="650">
+</p>
+
+##### <ins><i>Technical Aspects</i></ins>
+To prepare for the microwave link design, I studied <b>Huawei documentation</b> related to the <b>RTN 950A platform</b> and fundamental microwave transmission concepts, including:
+<ul>
+  <li><b>Huawei RTN 950A Documentation</b> – Specifications, configuration procedures, and integration guidelines for high-capacity microwave links.</li>
+  <li><b>Microwave Transmission Principles</b> – Fundamentals of point-to-point communication, modulation schemes, and line-of-sight requirements.</li>
+  <li><b>Path Loss and Link Budget Calculation</b> – Free space path loss, atmospheric attenuation, rain fade, and system gain analysis.</li>
+  <li><b>Microwave Frequency Bands</b> – Characteristics and applications of common bands such as 6 GHz, 11 GHz, 18 GHz, and 23 GHz.</li>
+  <li><b>Protection Configurations</b> – 
+    <ul>
+  <li>1+1 Hot Standby (HSB)</li>
+  <li>1+1 Space Diversity (SD)</li>
+  <li>1+1 Frequency Diversity (FD)</li>
+    </ul>
+  </li>
+  <li><b>XPIC (Cross-Polarization Interference Cancellation)</b> – Method for doubling capacity using dual-polarization without additional spectrum.</li>
+  <li><b>Fade Margin Analysis</b> – Ensuring link availability under worst-case conditions.</li>
+  <li><b>Antenna Selection</b> – Criteria for dish size, gain, and beamwidth based on link requirements.</li>
+  <li><b>Multipath Mitigation</b> – Techniques to minimize interference from reflections and scattering.</li>
+  <li><b>KPI Considerations</b> – Throughput, latency, availability, and resilience for critical backhaul applications.</li>
+</ul>
+This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum-efficient microwave link</b> meeting both performance and reliability targets.
+
+##### <ins><i>Components</i></ins>
+<p align="center">
+  <img src="Images/IDU.jpg" alt="RTN 950A" width="700">
+</p>
+<p align="center">
+  <img src="Images/CSHOF.jpg" alt="CSHOF" width="1000">
+</p>
+<p align="center">
+  <img src="Images/ISM8.jpg" alt="ISM8" width="1000">
+</p>
+<p align="center">
+  <img src="Images/ODU.jpg" alt="XMC-3" width="1000">
+</p>
+<p align="center">
+  <img src="Images/Microwave_Antenna.jpg" alt="Microwave Antenna" width="1000">
+</p>
+<p align="center">
+  <img src="Images/Coupler.jpg" alt="Coupler" width="500">
+  <img src="Images/IF_Cable.jpg" alt="IF Cable" width="500">
+</p>
+
+##### <ins><i>Implementation & Connection</i></ins>
+<p align="center">
+  <img src="Images/Microwave_Design.jpg" alt="Microwave Design" width="1000">
+</p>
+
+##### <ins><i>Deliverables</i></ins>
+<p align="center">
+  <img src="Images/Microwave_BOQ.jpg" alt="Microwave BOQ" width="650">
+</p>
+<p align="justify">Design is ready to be handed over. </p>
+
+
 ### <h3 id="atoll-forsk">Phase 4: Atoll Forsk Simulation</h3>
