@@ -45,10 +45,10 @@ The general workflow for each phase follows these steps:
 
 ##### <ins><i>Requirements</i></ins>
 <p align="center">
-  <img src="Images/Power_Calculation_Requirements.jpg" alt="Power Calculation Requirements" width="500">
+  <img src="Images/Power_Calculation_Requirements.jpg" alt="Power Calculation Requirements" width="600">
 </p>
 
-##### <ins><i>Results</i></ins>
+##### <ins><i>Calculations & Results</i></ins>
 <p align="center">
   <img src="Images/GSM_900_Power_Calculation.jpg" alt="GSM 900 Power Calculation" width="1000">
 </p>
@@ -58,9 +58,62 @@ The general workflow for each phase follows these steps:
 <p align="center">
   <img src="Images/LTE_1800_Power_Calculation.jpg" alt="LTE 1800 Power Calculation" width="1000">
 </p>
+
+##### <ins><i>Coverage Area</i></ins>
 <p align="center">
   <img src="Images/Coverage_Area.jpg" alt="Coverage Area" width="600">
 </p>
+
+#### <ins>Network Design</ins>
+##### <ins><i>Requirements</i></ins>
+<p align="center">
+  <img src="Images/Mobile_Wireless_Requirements.jpg" alt="Mobile Wireless Requirements" width="600">
+</p>
+
+##### <ins><i>Technical Aspects</i></ins>
+
+##### <ins><i>Components</i></ins>
+<p align="center">
+  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="600">
+</p>
+<p align="center">
+  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="600">
+</p>
+<p align="center">
+  <img src="Images/RF_Jumper.jpg" alt="RF Jumper" width="600">
+</p>
+<p align="center">
+  <img src="Images/RF_Module.jpg" alt="RF Module" width="600">
+</p>
+<p align="center">
+  <img src="Images/Wireless_Optical_Module.jpg" alt="Wireless Optical Module" width="600">
+</p>
+<p align="center">
+  <img src="Images/CPRI_Cable.jpg" alt="CPRI Cable" width="600">
+</p>
+<p align="center">
+  <img src="Images/BBU.jpg" alt="BBU 5900" width="600">
+</p>
+<p align="center">
+  <img src="Images/MPT_Boards.jpg" alt="MPT Boards" width="600">
+</p>
+<p align="center">
+  <img src="Images/BBP_Boards.jpg" alt="BBP Boards" width="600">
+</p>
+
+##### <ins><i>Implementation & Connection</i></ins>
+<p align="center">
+  <img src="Images/Mobile_Wireless_Design.jpg" alt="Mobile Wireless Design" width="600">
+</p>
+<p align="center">
+  <img src="Images/BBU_Boards_Configuration.jpg" alt="BBU Boards Configuration" width="600">
+</p>
+
+##### <ins><i>Deliverables</i></ins>
+<p align="center">
+  <img src="Images/Mobile_Wireless_BOQs.jpg" alt="Mobile Wireless BOQ" width="600">
+</p>
+<p align="justify">Design is ready to be handed over. </p>
 
 ### <h3 id="optical-fiber">Phase 2: Optical Fiber Transmission</h3>
 ### <h3 id="microwave">Phase 3: Microwave Transmission</h3>
