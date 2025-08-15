@@ -134,7 +134,7 @@ This technical background ensured the mobile wireless design met the <b>coverage
 ### <ins>Project Design</ins>
 ##### <ins><i>Requirements</i></ins>
 <p align="center">
-  <img src="Images/Optical_Fiber_Requirements.jpg" alt="Optical Fiber Requirements" width="700">
+  <img src="Images/Optical_Fiber_Requirements.jpg" alt="Optical Fiber Requirements" width="650">
 </p>
 
 ##### <ins><i>Technical Aspects</i></ins>
@@ -162,31 +162,31 @@ This technical preparation ensured the DWDM OTN design was <b>high-capacity, res
 
 ##### <ins><i>Components</i></ins>
 <p align="center">
-  <img src="Images/OSN.jpg" alt="OSN 9800" width="900">
+  <img src="Images/OSN.jpg" alt="OSN 9800" width="700">
 </p>
 <p align="center">
-  <img src="Images/M520SM+DCP.jpg" alt="M520SM & DCP" width="900">
+  <img src="Images/M520SM+DCP.jpg" alt="M520SM & DCP" width="1000">
 </p>
 <p align="center">
-  <img src="Images/TMD20+WSMD9.jpg" alt="TMD20 & WSMD9" width="600">
+  <img src="Images/TMD20+WSMD9.jpg" alt="TMD20 & WSMD9" width="1000">
 </p>
 <p align="center">
-  <img src="Images/DAP+DAPXF.jpg" alt="DAP & DAPXF" width="600">
+  <img src="Images/DAP+DAPXF.jpg" alt="DAP & DAPXF" width="1000">
 </p>
 <p align="center">
-  <img src="Images/AST+OPM.jpg" alt="AST & OPM" width="600">
+  <img src="Images/AST+OPM.jpg" alt="AST & OPM" width="1000">
 </p>
 <p align="center">
   <img src="Images/Others1.jpg" alt="Auxiliary Board" width="1000">
 </p>
 <p align="center">
-  <img src="Images/PIU.jpg" alt="PIU" width="1000">
+  <img src="Images/PIU.jpg" alt="PIU" width="650">
 </p>
 <p align="center">
-  <img src="Images/Fiber_Optical_Module.jpg" alt="Fiber Optical Module" width="1000">
+  <img src="Images/Fiber_Optical_Module.jpg" alt="Fiber Optical Module" width="650">
 </p>
 <p align="center">
-  <img src="Images/Fiber_Cable.jpg" alt="Fiber Cable" width="1000">
+  <img src="Images/Fiber_Cable.jpg" alt="Fiber Cable" width="650">
 </p>
 
 ##### <ins><i>Implementation & Connection</i></ins>
