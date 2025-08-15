@@ -34,11 +34,33 @@ The general workflow for each phase follows these steps:
   <li><b>Implementation & Connection</b></li>
   This includes <b>schematic designs, topology diagrams</b>, and establishing connections between components. For mobile wireless and microwave phases, simulations are carried out in <b>Forsk Atoll</b> to validate network performance.
   <li><b>Deliverables</b></li>
-  <b>Final outcomes</b> prepared for handover to other engineering or operations teams.
+  <b>Final outcomes</b> prepared for handover to other engineering or operations teams including <b>Bill of Quantities (BOQs)</b>.
 </ol>
 
 ## Project Phases
 ### <h3 id="mobile-wireless">Phase 1: Mobile Wireless Communication</h3>
+<p align="justify">In this phase, we focused on designing mobile networks for <b>2G (GSM)</b>, <b>3G (UMTS)</b>, <b>4G (LTE)</b>, and <b>5G (NR)</b> technologies using the <b>Huawei BBU 5900</b> as the central baseband unit. We began by performing <b>power calculations</b> for GSM, UMTS, and LTE to determine the expected coverage areas based on link budget analysis. After validating the design parameters, we proceeded with the network layout and concluded the phase with a site survey to assess real-world deployment feasibility. </p>
+
+#### <ins>Power Calculations</ins>
+
+##### <ins><i>Requirements</i></ins>
+<p align="center">
+  <img src="Images/Power_Calculation_Requirements.jpg" alt="Power Calculation Requirements" width="500">
+</p>
+
+##### <ins><i>Results</i></ins>
+<p align="center">
+  <img src="Images/GSM_900_Power_Calculation.jpg" alt="GSM 900 Power Calculation" width="500">
+</p>
+<p align="center">
+  <img src="Images/UMTS_2100_Power_Calculation.jpg" alt="UMTS 2100 Power Calculation" width="500">
+</p>
+<p align="center">
+  <img src="Images/LTE_1800_Power_Calculation.jpg" alt="LTE 1800 Power Calculation" width="500">
+</p>
+<p align="center">
+  <img src="Images/Coverage_Area.jpg" alt="Coverage Area" width="500">
+</p>
 
 ### <h3 id="optical-fiber">Phase 2: Optical Fiber Transmission</h3>
 ### <h3 id="microwave">Phase 3: Microwave Transmission</h3>
