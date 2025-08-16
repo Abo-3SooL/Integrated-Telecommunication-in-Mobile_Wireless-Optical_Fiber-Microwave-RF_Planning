@@ -272,3 +272,56 @@ This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum
 
 
 ### <h3 id="atoll-forsk">Phase 4: Atoll Forsk Simulation</h3>
+<p align="justify">In this phase, we used Atoll, a professional radio planning and optimization software, to conduct network simulations based on the project requirements. The simulation included the implementation of two sites (cells), each supporting multi-RAT technologies (2G/3G/4G/5G), with a microwave link designed between them to provide reliable backhaul connectivity. This phase allowed us to validate coverage, capacity, and link performance through practical modeling in Atoll. </p>
+
+### <ins>Project Design</ins>
+##### <ins><i>Requirements</i></ins>
+<p align="center">
+  <img src="Images/Atoll_Requirements.jpg" alt="Atoll Requirements" width="650">
+</p>
+
+
+##### <ins><i>Implementation & Design</i></ins>
+<p align="center">
+  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Passive_Antenna_Specifications.jpg" alt="Passive Antenna Specifications" width="900">
+</p>
+<p align="center">
+  <img src="Images/Active_Antenna_Specifications.jpg" alt="Active Antenna Specifications" width="900">
+</p>
+
+
+## Conclusion
+<p align="justify"> 
+This project, conducted as part of the <b>Integrated Telecommunication Engineering Program</b>, demonstrates my ability to design and plan telecommunication networks across multiple domains. Through <b>Mobile Wireless Communication, Optical Fiber Transmission, Microwave Transmission, and Atoll Simulation</b>, I applied both theoretical knowledge and practical tools to create a proof-of-concept network design.
+By working with <b>Huawei components</b> and following <b>KPI-driven requirements</b>, I gained hands-on experience in equipment selection, link budget calculations, capacity planning, protection schemes, and simulation-based validation. Each phase showcased a different aspect of telecom engineering, from <b>radio access design and fiber backbone planning to microwave backhaul and network optimization tools</b>.
+This repository serves as evidence of my technical competence, problem-solving ability, and readiness to contribute to real-world <b>telecommunication network design and implementation projects</b>, while also providing a foundation for future professional growth in this field.
+</p>
+
+
+### Contact Information
+
+
+- **Mohammad Asaslih**  
+  Email: [mohammad.asaslih@gmail.com](mailto:mohammad.asaslih@gmail.com)  
+  LinkedIn: <a href="www.linkedin.com/in/mohammad-al-asaslih/" target="_blank">Mohammad Al-Asaslih</a>
+
+
+### <p align="center">Good Luck</p>
