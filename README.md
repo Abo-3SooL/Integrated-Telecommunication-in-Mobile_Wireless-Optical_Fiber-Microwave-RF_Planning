@@ -26,15 +26,15 @@ The general workflow for each phase follows these steps:
 
 <ol>
   <li><b>Collecting Requirements</b></li>
-  This step is based on <b>Key Performance Indicators (KPIs)</b> and <b>strategic goals</b> of the intended telecom network. In this project, the requirements were provided by the instructor to simulate a real-world scenario.
+  <p align="justify">This step is based on <b>Key Performance Indicators (KPIs)</b> and <b>strategic goals</b> of the intended telecom network. In this project, the requirements were provided by the instructor to simulate a real-world scenario. </p>
   <li><b>Studying Technical Aspects</b></li>
-  This phase involves reviewing relevant technical information, network standards, and design considerations. The goal is to ensure a solid technical foundation before moving to the design stage.
+  <p align="justify">This phase involves reviewing relevant technical information, network standards, and design considerations. The goal is to ensure a solid technical foundation before moving to the design stage. </p>
   <li><b>Choosing Components</b></li>
-  Based on the requirements, appropriate <b>Huawei components</b> and other network elements are selected. This stage relies heavily on <b>datasheets</b> to evaluate technical specifications, compatibility, and performance.
+  <p align="justify">Based on the requirements, appropriate <b>Huawei components</b> and other network elements are selected. This stage relies heavily on <b>datasheets</b> to evaluate technical specifications, compatibility, and performance. </p>
   <li><b>Implementation & Connection</b></li>
-  This includes <b>schematic designs, topology diagrams</b>, and establishing connections between components. For mobile wireless and microwave phases, simulations are carried out in <b>Forsk Atoll</b> to validate network performance.
+  <p align="justify">This includes <b>schematic designs, topology diagrams</b>, and establishing connections between components. For mobile wireless and microwave phases, simulations are carried out in <b>Forsk Atoll</b> to validate network performance. </p>
   <li><b>Deliverables</b></li>
-  <b>Final outcomes</b> prepared for handover to other engineering or operations teams including <b>Bill of Quantities (BOQs)</b>.
+  <p align="justify"><b>Final outcomes</b> prepared for handover to other engineering or operations teams including <b>Bill of Quantities (BOQs)</b>. </p>
 </ol>
 
 ## Project Phases
@@ -272,7 +272,7 @@ This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum
 
 
 ### <h3 id="atoll-forsk">Phase 4: Atoll Forsk Simulation</h3>
-<p align="justify">In this phase, we used Atoll, a professional radio planning and optimization software, to conduct network simulations based on the project requirements. The simulation included the implementation of two sites (cells), each supporting multi-RAT technologies (2G/3G/4G/5G), with a microwave link designed between them to provide reliable backhaul connectivity. This phase allowed us to validate coverage, capacity, and link performance through practical modeling in Atoll. </p>
+<p align="justify">In this phase, we used <b>Atoll</b>, a professional radio planning and optimization software, to conduct network simulations based on the project requirements. The simulation included the implementation of <b>two sites (cells)</b>, each supporting <b>multi-RAT technologies (2G/3G/4G/5G)</b>, with a <b>microwave link</b> designed between them to provide reliable backhaul connectivity. This phase allowed us to validate coverage, capacity, and link performance through practical modeling in Atoll. </p>
 
 ### <ins>Project Design</ins>
 ##### <ins><i>Requirements</i></ins>
@@ -309,19 +309,16 @@ This knowledge enabled the design of a <b>high-capacity, redundant, and spectrum
 
 
 ## Conclusion
-<p align="justify"> 
-This project, conducted as part of the <b>Integrated Telecommunication Engineering Program</b>, demonstrates my ability to design and plan telecommunication networks across multiple domains. Through <b>Mobile Wireless Communication, Optical Fiber Transmission, Microwave Transmission, and Atoll Simulation</b>, I applied both theoretical knowledge and practical tools to create a proof-of-concept network design.
-By working with <b>Huawei components</b> and following <b>KPI-driven requirements</b>, I gained hands-on experience in equipment selection, link budget calculations, capacity planning, protection schemes, and simulation-based validation. Each phase showcased a different aspect of telecom engineering, from <b>radio access design and fiber backbone planning to microwave backhaul and network optimization tools</b>.
-This repository serves as evidence of my technical competence, problem-solving ability, and readiness to contribute to real-world <b>telecommunication network design and implementation projects</b>, while also providing a foundation for future professional growth in this field.
-</p>
+<p align="justify">This project, conducted as part of the <b>Integrated Telecommunication Engineering Program</b>, demonstrates my ability to design and plan telecommunication networks across multiple domains. Through <b>Mobile Wireless Communication, Optical Fiber Transmission, Microwave Transmission, and Atoll Simulation</b>, I applied both theoretical knowledge and practical tools to create a proof-of-concept network design. </p>
+<p align="justify">By working with <b>Huawei components</b> and following <b>KPI-driven requirements</b>, I gained hands-on experience in equipment selection, link budget calculations, capacity planning, protection schemes, and simulation-based validation. Each phase showcased a different aspect of telecom engineering, from <b>radio access design and fiber backbone planning to microwave backhaul and network optimization tools</b>. </p>
+<p align="justify">This repository serves as evidence of my technical competence, problem-solving ability, and readiness to contribute to real-world <b>telecommunication network design and implementation projects</b>, while also providing a foundation for future professional growth in this field. </p>
 
+--------------------------------------------------------------------------------------------
 
 ### Contact Information
-
-
-- **Mohammad Asaslih**  
+**Mohammad Ibrahim Al-Asaslih**  
   Email: [mohammad.asaslih@gmail.com](mailto:mohammad.asaslih@gmail.com)  
-  LinkedIn: <a href="www.linkedin.com/in/mohammad-al-asaslih/" target="_blank">Mohammad Al-Asaslih</a>
-
-
+  LinkedIn: <a href="https://www.linkedin.com/in/mohammad-al-asaslih">Mohammad Al-Asaslih</a>
+  
+--------------------------------------------------------------------------------------------
 ### <p align="center">Good Luck</p>
